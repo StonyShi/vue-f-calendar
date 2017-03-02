@@ -76,6 +76,6 @@
 
 ### 效果
 
-![今天](today.png)
+![今天](https://github.com/StonyShi/vue-f-calendar/blob/master/vue-f-calendar/image/today.png)
 
-![列表](list.png)
+![列表](https://github.com/StonyShi/vue-f-calendar/blob/master/vue-f-calendar/image/list.png)
